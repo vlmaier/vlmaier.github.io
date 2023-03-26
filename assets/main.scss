@@ -4,6 +4,20 @@
 
 @import "minima";
 
+.tech-stack {
+    margin: 0;
+    float: right;
+    min-width: 25%;
+}
+
 .tech-stack p {
-    margin: 0 !important;
+    margin: 0;
+}
+
+.tech-stack p img {
+    float: right;
+}
+
+.tech-stack-footer {
+    clear: both;
 }

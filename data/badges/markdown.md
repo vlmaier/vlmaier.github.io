@@ -1,1 +1,1 @@
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" style="float: left;">
+<img src="https://img.shields.io/badge/md-000.svg?style=for-the-badge&logo=markdown&logoColor=white">

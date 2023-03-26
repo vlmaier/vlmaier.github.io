@@ -16,14 +16,15 @@ More than five years of experience in backend development with a focus on cloud 
 
 <br>
 
-### Professional Experience
+<h3>Professional Experience</h3>
+<h3 style="float: right;">Tech Stack</h3>
 
 <br>
 
-#### July 2021 – today
+#### 📅 July 2021 – today
 #### **Senior Software Engineer** – Dracoon GmbH
 
-<div class="tech-stack" style="margin-left: 15px; float: right; width: 25%;">
+<div class="tech-stack">
 {% capture badges %}
 {% include_relative data/badges/_sse-dracoon-badges.md %}
 {% endcapture %}
@@ -44,15 +45,15 @@ Backend development
 
 <br>
 
-#### November 2017 – July 2021
+#### 📅 November 2017 – July 2021
 #### **Software Engineer** – Dracoon GmbH
 
 <br>
 
-#### July 2016 – November 2017
+#### 📅 July 2016 – November 2017
 #### **Junior Software Engineer / Working student** – SSP Europe GmbH
 
-<div class="tech-stack" style="margin-left: 15px; float: right; width: 25%;">
+<div class="tech-stack">
 {% capture badges %}
 {% include_relative data/badges/_jse-dracoon-badges.md %}
 {% endcapture %}
@@ -68,10 +69,10 @@ Quality assurance
 
 <br>
 
-#### May 2017 – October 2017
+#### 📅 May 2017 – October 2017
 #### **Master thesis** – SSP Europe GmbH
 
-<div class="tech-stack" style="margin-left: 15px; float: right; width: 25%;">
+<div class="tech-stack">
 {% capture badges %}
 {% include_relative data/badges/_mt-dracoon-badges.md %}
 {% endcapture %}
@@ -87,10 +88,10 @@ Topic: *Design secure and user-friendly password policies*
 
 <br>
 
-#### September 2015 – January 2016
+#### 📅 September 2015 – January 2016
 #### **Internship** – Continental AG
 
-<div class="tech-stack" style="margin-left: 15px; float: right; width: 25%;">
+<div class="tech-stack">
 {% capture badges %}
 {% include_relative data/badges/_i-continental-badges.md %}
 {% endcapture %}
@@ -99,6 +100,6 @@ Topic: *Design secure and user-friendly password policies*
 
 Application development
 
-- Conception and development of an application for the administration of internal hardware among the employees
+- Conception and development of an internal application for the administration of the (used) hardware among the employees
 
 <br>
