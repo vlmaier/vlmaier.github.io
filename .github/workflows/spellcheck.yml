@@ -1,6 +1,6 @@
 # https://www.javierbrea.com/blog/spellcheck-github-action/
 
-name: Spellcheck
+name: spellcheck
 run-name: run spellcheck for ${{ github.actor }}'s new code
 on: [push]
 jobs:
