@@ -1,14 +1,25 @@
-title: Vladas Maier
+title: vlmaier blog
 email: vladas.mr@gmail.com
 description: >-
   Work in progress. Stay tuned.
+
 domain: vlmaier.github.io
 url: https://vlmaier.github.io
 baseurl: ""
+
+# Social networks
 twitter_username: aceouterspace
 github_username: vlmaier
+linkedin_username: vladas-maier
+rss: rss
 
-# Build settings
 theme: minima
+
 plugins:
   - jekyll-feed
+
+show_excerpts: true
+
+header_pages:
+  - about.md
+  - cv.md
