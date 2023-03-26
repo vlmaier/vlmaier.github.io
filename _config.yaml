@@ -1,0 +1,14 @@
+title: Vladas Maier
+email: vladas.mr@gmail.com
+description: >-
+  Work in progress. Stay tuned.
+domain: vlmaier.github.io
+url: https://vlmaier.github.io
+baseurl: ""
+twitter_username: aceouterspace
+github_username: vlmaier
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
