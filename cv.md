@@ -10,7 +10,7 @@ permalink: /cv/
 
 ### Profile
 
-More than five years of experience in backend development with a focus on cloud computing and IT security. Writing clean code is very important to me and I work by the boy-scout rule:
+More than five years of experience in the backend development with a focus on cloud computing and IT security. Writing clean code is very important to me and I work by the boy-scout rule:
 
 > Always leave the code better than you found it.
 
@@ -33,12 +33,12 @@ More than five years of experience in backend development with a focus on cloud 
 
 Backend development
 
-- Specification and development of product featuresmainly as a set of REST-APIs
+- Specification and development of product features; mainly as a set of REST-APIs
 - Development of multiple services communicating with each other via REST-API or messaging queue
 - Transformation of a monolithic Spring application to a Spring Boot application
 - Upgrade of Swagger API documentation from version 1.2 to 2.0 and OpenAPI 3.0
 - Switch of data management of all customer sensitive data from NFS to S3 storage
-- Refactoring and maintenance of existing codebase and architecture
+- Refactoring and maintenance of existing code base and architecture
 - Documentation and quality assurance of developed solutions
 - Development and maintenance of CI pipelines
 - Support in release management
