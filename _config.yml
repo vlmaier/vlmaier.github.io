@@ -1,14 +1,13 @@
-title: vlmaier blog
+title: technical capital
 email: vladas.mr@gmail.com
 description: >-
-  Work in progress. Stay tuned.
+  I blog about things I find out for myself and have an urge to share them with the Internet. Maybe someone else will find it useful...
 
 domain: vlmaier.github.io
 url: https://vlmaier.github.io
 baseurl: ""
 
 # Social networks
-twitter_username: aceouterspace
 github_username: vlmaier
 linkedin_username: vladas-maier
 rss: rss
@@ -17,6 +16,7 @@ theme: minima
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 show_excerpts: true
 

@@ -6,7 +6,7 @@ permalink: /cv
 
 ## Work in progress ...
 
-<img src="/data/images/photo.png" width="200dp" style="float: right; margin-left: 20px;">
+<img class="profile-photo" src="/data/images/photo.png" width="200dp">
 
 ### Profile
 
@@ -16,12 +16,12 @@ More than five years of experience in the backend development with a focus on cl
 
 <br>
 
-<h3>Professional Experience</h3>
+### Professional Experience
 <h3 style="float: right;">Tech Stack</h3>
 
 <br>
 
-#### 📅 July 2021 – today
+#### July 2021 – today
 #### **Senior Software Engineer** – Dracoon GmbH
 
 <div class="tech-stack">
@@ -45,12 +45,12 @@ Backend development
 
 <br>
 
-#### 📅 November 2017 – July 2021
+#### November 2017 – July 2021
 #### **Software Engineer** – Dracoon GmbH
 
 <br>
 
-#### 📅 July 2016 – November 2017
+#### July 2016 – November 2017
 #### **Junior Software Engineer / Working student** – SSP Europe GmbH
 
 <div class="tech-stack">
@@ -69,7 +69,7 @@ Quality assurance
 
 <br>
 
-#### 📅 May 2017 – October 2017
+#### May 2017 – October 2017
 #### **Master thesis** – SSP Europe GmbH
 
 <div class="tech-stack">
@@ -88,7 +88,7 @@ Topic: *Design secure and user-friendly password policies*
 
 <br>
 
-#### 📅 September 2015 – January 2016
+#### September 2015 – January 2016
 #### **Internship** – Continental AG
 
 <div class="tech-stack">
@@ -101,5 +101,39 @@ Topic: *Design secure and user-friendly password policies*
 Application development
 
 - Conception and development of an internal application for the administration of the (used) hardware among the employees
+
+<br>
+
+### Side projects
+
+<br>
+
+#### March 2023 – today
+#### **Blog**
+
+- 
+
+<br>
+
+#### February 2019 – July 2021
+#### **Android Application**
+
+<div class="tech-stack">
+{% capture badges %}
+{% include_relative data/badges/_taski-badges.md %}
+{% endcapture %}
+{{ badges | markdownify }}
+</div>
+
+Taski: gamified task scheduler
+
+- Design and implementation of an advanced To-Do list application from scratch
+- Development of a feature set for similar To-Do list applications and beyond
+- Multi-language support
+- Use of gamification concepts
+- Leaning Android and Kotlin development
+- Learning about the rollout process on the Google Play Store
+
+<a href='https://play.google.com/store/apps/details?id=com.vmaier.taski&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="150dp" style="display: inline;"/></a>
 
 <br>

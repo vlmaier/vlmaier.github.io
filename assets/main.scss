@@ -1,13 +1,35 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+
 ---
 
 @import "minima";
+
+.p-name {
+    display: none;
+}
+
+.profile-photo {
+    margin-left: 20px;
+    float: right;
+}
+
+.site-title::before {
+    content: "";
+    background: url(images/logo.svg);
+    background-size: cover;
+    position: relative;
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    top: 8px;
+    right: 6px;
+}
 
 .tech-stack {
     margin: 0;
     float: right;
     min-width: 25%;
+    max-width: 30%;
 }
 
 .tech-stack p {
