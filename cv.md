@@ -6,7 +6,7 @@ permalink: /cv
 
 ## Work in progress ...
 
-<img class="profile-photo" src="/data/images/photo.png" width="200dp">
+<img class="profile-photo" src="/assets/images/photo.png">
 
 ### Profile
 
@@ -26,7 +26,7 @@ More than five years of experience in the backend development with a focus on cl
 
 <div class="tech-stack">
 {% capture badges %}
-{% include_relative data/badges/_sse-dracoon-badges.md %}
+{% include_relative assets/badges/_sse-dracoon-badges.md %}
 {% endcapture %}
 {{ badges | markdownify }}
 </div>
@@ -55,7 +55,7 @@ Backend development
 
 <div class="tech-stack">
 {% capture badges %}
-{% include_relative data/badges/_jse-dracoon-badges.md %}
+{% include_relative assets/badges/_jse-dracoon-badges.md %}
 {% endcapture %}
 {{ badges | markdownify }}
 </div>
@@ -74,7 +74,7 @@ Quality assurance
 
 <div class="tech-stack">
 {% capture badges %}
-{% include_relative data/badges/_mt-dracoon-badges.md %}
+{% include_relative assets/badges/_mt-dracoon-badges.md %}
 {% endcapture %}
 {{ badges | markdownify }}
 </div>
@@ -93,7 +93,7 @@ Topic: *Design secure and user-friendly password policies*
 
 <div class="tech-stack">
 {% capture badges %}
-{% include_relative data/badges/_i-continental-badges.md %}
+{% include_relative assets/badges/_i-continental-badges.md %}
 {% endcapture %}
 {{ badges | markdownify }}
 </div>
@@ -120,7 +120,7 @@ Application development
 
 <div class="tech-stack">
 {% capture badges %}
-{% include_relative data/badges/_taski-badges.md %}
+{% include_relative assets/badges/_taski-badges.md %}
 {% endcapture %}
 {{ badges | markdownify }}
 </div>
