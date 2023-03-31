@@ -6,7 +6,7 @@ I blog about things I find out for myself and have an urge to share them with th
 
 ## FAQ
 
-> Actually nobody ask me these questions. I am just trying hard.
+> Actually nobody asks me these questions. I am just trying hard.
 
 - What's "technical capital"?
 
