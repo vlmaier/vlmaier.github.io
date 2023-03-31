@@ -2,13 +2,13 @@ cv
 permalink
 backend
 dracoon
-gmbh
+GmbH
 endcapture
 markdownify
 md
 sse
-apis
-openapi
+APIs
+OpenAPI
 nfs
 ssp
 jse
