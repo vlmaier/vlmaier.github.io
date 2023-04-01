@@ -22,7 +22,7 @@ More than five years of experience in the backend development with a focus on cl
 <br>
 
 #### July 2021 – today
-#### **Senior Software Engineer** – Dracoon GmbH
+#### **Senior Software Engineer** @ <a href="https://www.dracoon.com/en/home">Dracoon GmbH</a>
 
 <div class="tech-stack">
 {% capture badges %}
@@ -31,7 +31,7 @@ More than five years of experience in the backend development with a focus on cl
 {{ badges | markdownify }}
 </div>
 
-Backend development
+*Backend development*
 
 - Specification and development of product features; mainly as a set of REST-APIs
 - Development of multiple services communicating with each other via REST-API or messaging queue
@@ -46,12 +46,12 @@ Backend development
 <br>
 
 #### November 2017 – July 2021
-#### **Software Engineer** – Dracoon GmbH
+#### **Software Engineer** @ <a href="https://www.dracoon.com/en/home">Dracoon GmbH</a>
 
 <br>
 
 #### July 2016 – November 2017
-#### **Junior Software Engineer / Working student** – SSP Europe GmbH
+#### **Junior Software Engineer** @ <a href="https://www.dracoon.com/en/home">SSP Europe GmbH</a>
 
 <div class="tech-stack">
 {% capture badges %}
@@ -60,7 +60,7 @@ Backend development
 {{ badges | markdownify }}
 </div>
 
-Quality assurance
+*Quality assurance*
 
 - Writing unit / integration tests
 - Quality assurance of a JSON / REST-API
@@ -70,7 +70,7 @@ Quality assurance
 <br>
 
 #### May 2017 – October 2017
-#### **Master thesis** – SSP Europe GmbH
+#### **Master thesis** @ <a href="https://www.dracoon.com/en/home">SSP Europe GmbH</a>
 
 <div class="tech-stack">
 {% capture badges %}
@@ -79,7 +79,7 @@ Quality assurance
 {{ badges | markdownify }}
 </div>
 
-Topic: *Design secure and user-friendly password policies*
+*Topic: Design secure and user-friendly password policies*
 
 - Design and specification of a password policy concept
 - Implementation of a password policies feature
@@ -89,7 +89,7 @@ Topic: *Design secure and user-friendly password policies*
 <br>
 
 #### September 2015 – January 2016
-#### **Internship** – Continental AG
+#### **Internship** @ <a href="https://www.continental.com/en/">Continental AG</a>
 
 <div class="tech-stack">
 {% capture badges %}
@@ -98,7 +98,7 @@ Topic: *Design secure and user-friendly password policies*
 {{ badges | markdownify }}
 </div>
 
-Application development
+*Application development*
 
 - Conception and development of an internal application for the administration of the (used) hardware among the employees
 
@@ -106,12 +106,21 @@ Application development
 
 ### Side projects
 
-<br>
-
 #### March 2023 – today
 #### **Blog**
 
-- 
+<div class="tech-stack">
+{% capture badges %}
+{% include_relative assets/badges/_blog-badges.md %}
+{% endcapture %}
+{{ badges | markdownify }}
+</div>
+
+*technical capital (this website)*
+
+- First experience with GitHub pages and hosting in general
+- First experience with writing
+- Refreshing of HTML & CSS skills
 
 <br>
 
@@ -125,14 +134,14 @@ Application development
 {{ badges | markdownify }}
 </div>
 
-Taski: gamified task scheduler
+*Taski: gamified task scheduler*
 
 - Design and implementation of an advanced To-Do list application from scratch
 - Development of a feature set for similar To-Do list applications and beyond
 - Multi-language support
 - Use of gamification concepts
 - Leaning Android and Kotlin development
-- Learning about the rollout process on the Google Play Store
+- Learning about the rollout process on Google Play Store
 
 <a href='https://play.google.com/store/apps/details?id=com.vmaier.taski&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="150dp" style="display: inline;"/></a>
 
