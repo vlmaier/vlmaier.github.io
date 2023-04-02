@@ -38,3 +38,4 @@ OTH
 regensburg
 cham
 FOS
+wakatime
