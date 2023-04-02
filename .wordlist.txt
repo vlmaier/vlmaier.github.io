@@ -33,3 +33,8 @@ gamified
 gamification
 seo
 rollout
+kanban
+OTH
+regensburg
+cham
+FOS
