@@ -4,6 +4,7 @@ title: CV
 permalink: /cv
 ---
 
+<!--
 ### Content
 
 - [Profile](#profile)
@@ -12,6 +13,7 @@ permalink: /cv
 - [Education](#education)
 
 <br>
+-->
 
 ### <a name="profile"></a>Profile
 
