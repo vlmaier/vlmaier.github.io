@@ -11,3 +11,5 @@ Today I am starting my blog *technical capital*. I have already created an [Abou
 So what's *technical capital*?
 
 I always strive to write clean code and leave the code cleaner than I found it. In this way I prevent the formation of "technical debt" or try to reduce it if possible. What is the opposite of debt? Yes, now you have it... don't judge me :)
+
+I already have an idea for my actual first blog post (this one is only an introduction), so stay tuned.
