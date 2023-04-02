@@ -4,19 +4,28 @@ title: CV
 permalink: /cv
 ---
 
-## Work in progress ...
+### Content
+
+- [Profile](#profile)
+- [Professional Experience](#professional-experience)
+- [Side Projects](#side-projects)
+- [Education](#education)
+
+<br>
+
+### <a name="profile"></a>Profile
 
 <img class="profile-photo" src="/assets/images/photo.png">
 
-### Profile
+I am a problem solver with solution-oriented approach and very passionate Software Engineer. Most of my professional experience I gained during backend development with a focus on cloud computing and IT security. I am capable of doing several tasks across of all software engineering stages, including requirements engineering, development of architectural design, writing technical specifications, creating prototypes and tracer code, developing solutions, continuous integration, code reviews, quality assurance, writing documentation and rollout. I am a team player and I enjoy developing solutions together on a higher level, which can be implemented then independently.
 
-More than five years of experience in the backend development with a focus on cloud computing and IT security. Writing clean code is very important to me and I work by the boy-scout rule:
+I am familiar with modern software development methods and tools such as Agile (Manifesto), Scrum or Kanban and always support the approach that best suits the team. Writing clean code is very important to me and I work by the boy-scout rule:
 
 > Always leave the code better than you found it.
 
 <br>
 
-### Professional Experience
+### <a name="professional-experience"></a>Professional Experience
 <h3 style="float: right;">Tech Stack</h3>
 
 <br>
@@ -104,7 +113,7 @@ More than five years of experience in the backend development with a focus on cl
 
 <br>
 
-### Side projects
+### <a name="side-projects"></a>Side Projects
 
 #### March 2023 – today
 #### **Blog**
@@ -146,3 +155,14 @@ More than five years of experience in the backend development with a focus on cl
 <a href='https://play.google.com/store/apps/details?id=com.vmaier.taski&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="150dp" style="display: inline;"/></a>
 
 <br>
+
+### <a name="education"></a>Education
+
+- 2016 – 2017  
+  **M.Sc. Computer Science** @ <a href="https://www.oth-regensburg.de/en/">OTH Regensburg</a>
+
+- 2012 – 2016  
+  **B.Sc. Computer Science** @ <a href="https://www.oth-regensburg.de/en/">OTH Regensburg</a>
+
+- 2009 – 2012  
+  **High School Diploma** @ <a href="https://www.fos-cham.de/">FOS Cham</a>
