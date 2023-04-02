@@ -1,1 +1,1 @@
-<img src="https://img.shields.io/badge/google_play-414141?style=for-the-badge&logo=google-play&logoColor=white">
+<img src="https://img.shields.io/badge/google%20play-414141.svg?style=for-the-badge&logo=Google-Play&logoColor=white">
