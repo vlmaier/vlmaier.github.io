@@ -17,7 +17,7 @@ permalink: /about
 
 ### <a name="profile"></a>Profile
 
-<img class="profile-photo" src="/assets/images/photo.png">
+<img class="profile-photo" src="/assets/images/photo.jpeg">
 
 I am a problem solver with solution-oriented approach and very passionate Software Engineer. Most of my professional experience I gained during backend development with a focus on cloud computing and IT security. I am capable of doing several tasks across of all software engineering stages, including requirements engineering, development of architectural design, writing technical specifications, creating prototypes and tracer code, developing solutions, continuous integration, code reviews, quality assurance, writing documentation and rollout. I am a team player and I enjoy developing solutions together on a higher level, which can be implemented then independently.
 
