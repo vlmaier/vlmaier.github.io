@@ -46,14 +46,14 @@ Here you can see how am I doing so far:
 <br>
 
 ### <a name="professional-experience"></a>Professional Experience
-<h3 style="float: right;">Tech Stack</h3>
+<h3 class="right">Tech Stack</h3>
 
 <br>
 
 #### July 2021 – today
 #### **Senior Software Engineer** @ <a href="https://www.dracoon.com/en/home">Dracoon GmbH</a>
 
-<div class="tech-stack">
+<div class="tech-stack right">
 {% capture badges %}
 {% include_relative assets/badges/_sse-dracoon-badges.md %}
 {% endcapture %}
@@ -82,7 +82,7 @@ Here you can see how am I doing so far:
 #### July 2016 – November 2017
 #### **Junior Software Engineer** @ <a href="https://www.dracoon.com/en/home">SSP Europe GmbH</a>
 
-<div class="tech-stack">
+<div class="tech-stack right">
 {% capture badges %}
 {% include_relative assets/badges/_jse-dracoon-badges.md %}
 {% endcapture %}
@@ -101,7 +101,7 @@ Here you can see how am I doing so far:
 #### May 2017 – October 2017
 #### **Master thesis** @ <a href="https://www.dracoon.com/en/home">SSP Europe GmbH</a>
 
-<div class="tech-stack">
+<div class="tech-stack right">
 {% capture badges %}
 {% include_relative assets/badges/_mt-dracoon-badges.md %}
 {% endcapture %}
@@ -120,7 +120,7 @@ Here you can see how am I doing so far:
 #### September 2015 – January 2016
 #### **Internship** @ <a href="https://www.continental.com/en/">Continental AG</a>
 
-<div class="tech-stack">
+<div class="tech-stack right">
 {% capture badges %}
 {% include_relative assets/badges/_i-continental-badges.md %}
 {% endcapture %}
@@ -138,7 +138,7 @@ Here you can see how am I doing so far:
 #### March 2023 – today
 #### **Blog**
 
-<div class="tech-stack">
+<div class="tech-stack right">
 {% capture badges %}
 {% include_relative assets/badges/_blog-badges.md %}
 {% endcapture %}
@@ -156,7 +156,7 @@ Here you can see how am I doing so far:
 #### February 2019 – July 2021
 #### **Android Application**
 
-<div class="tech-stack">
+<div class="tech-stack right">
 {% capture badges %}
 {% include_relative assets/badges/_taski-badges.md %}
 {% endcapture %}

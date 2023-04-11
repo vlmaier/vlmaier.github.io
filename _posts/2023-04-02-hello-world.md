@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "hello, world!"
-categories: introduction
+title: "Hello, world!"
 ---
 
-# hello, world!
+# Hello, world!
 
 Today I am starting my blog *technical capital*. I have already created an [About](/about) page you can check out. I will blog about things I find out for myself and then like to share with the Internet. Maybe someone else will find it also useful.
 

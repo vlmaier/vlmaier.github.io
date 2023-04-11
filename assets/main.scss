@@ -1,24 +1,40 @@
 ---
 ---
-
 @import "minima";
+
+.highlight pre {
+    padding: 0;
+    margin: 0;
+}
+
+.rouge-table {
+    margin: 0;
+}
+
+.rouge-gutter {
+    padding-right: 0;
+}
 
 .social-badge {
     float: left;
     margin: 5px 5px 0 0;
 }
+
 .p-name {
     display: none;
 }
+
 .post-header {
     display: none;
 }
+
 .profile-photo {
-    margin: 0px 20px 10px 0px;
+    margin: 0 20px 10px 0;
     float: left;
     width: 250px;
     height: auto;
 }
+
 .site-title::before {
     content: "";
     background: url(images/logo.svg);
@@ -30,33 +46,51 @@
     top: 8px;
     right: 6px;
 }
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+.margin2 {
+    margin: 2px;
+}
+
 .tech-stack {
     margin: 0;
-    float: right;
     min-width: 25%;
     width: 25%;
 }
+
 .tech-stack p {
     margin: 0;
 }
-.tech-stack p img {
+
+.tech-stack.margin2 p img {
+    margin: 2px;
+}
+
+.tech-stack.left p img {
+    float: left;
+}
+
+.tech-stack.right p img {
     float: right;
 }
+
 .tech-stack-footer {
     clear: both;
 }
 
 @media only screen and (max-width: 600px) {
-    .tech-stack {
-        margin: 0;
-        float: right;
-        min-width: 25%;
-        width: 47%;
-    }
     .profile-photo {
-        margin: 0px 20px 10px 0px;
-        float: left;
         width: 150px;
-        height: auto;
+    }
+
+    .tech-stack {
+        width: 47%;
     }
 }
