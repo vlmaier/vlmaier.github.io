@@ -33,3 +33,6 @@ header_pages:
   - about.md
   - privacy-policy.md
   - imprint.md
+
+tag_page_layout: tag-page
+tag_page_dir: tags
