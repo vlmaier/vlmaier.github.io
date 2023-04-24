@@ -39,7 +39,14 @@ Here you can see how am I doing so far:
 
 <br>
 
-#### July 2021 – today
+#### March 2023 – today
+#### **Senior Backend Engineer** in stealth mode
+
+*Backend development*
+
+<br>
+
+#### July 2021 – February 2023
 #### **Senior Software Engineer** @ <a href="https://www.dracoon.com/en/home">Dracoon GmbH</a>
 
 <div class="tech-stack right">
@@ -143,7 +150,7 @@ Here you can see how am I doing so far:
 <br>
 
 #### February 2019 – July 2021
-#### **Android Application**
+#### **Android application**
 
 <div class="tech-stack right">
 {% capture badges %}
