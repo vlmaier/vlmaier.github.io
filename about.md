@@ -4,18 +4,7 @@ title: About
 permalink: /about
 ---
 
-<!--
-### Content
-
-- [Profile](#profile)
-- [Professional Experience](#professional-experience)
-- [Side Projects](#side-projects)
-- [Education](#education)
-
-<br>
--->
-
-### <a name="profile"></a>Profile
+### Profile
 
 <img class="profile-photo" src="/assets/images/photo.jpeg">
 
@@ -45,7 +34,7 @@ Here you can see how am I doing so far:
 
 <br>
 
-### <a name="professional-experience"></a>Professional Experience
+### Professional Experience
 <h3 class="right">Tech Stack</h3>
 
 <br>
@@ -94,7 +83,7 @@ Here you can see how am I doing so far:
 - Writing unit / integration tests
 - Quality assurance of a JSON / REST-API
 - Development and maintenance of a python testing framework
-- Project: Development of an actor-based testing framework
+- Project: [Development of an actor-based testing framework](https://github.com/mischcon/Clustering)
 
 <br>
 
@@ -133,7 +122,7 @@ Here you can see how am I doing so far:
 
 <br>
 
-### <a name="side-projects"></a>Side Projects
+### Side Projects
 
 #### March 2023 – today
 #### **Blog**
@@ -176,7 +165,7 @@ Here you can see how am I doing so far:
 
 <br>
 
-### <a name="education"></a>Education
+### Education
 
 - 2016 – 2017  
   **M.Sc. Computer Science** @ <a href="https://www.oth-regensburg.de/en/">OTH Regensburg</a>
