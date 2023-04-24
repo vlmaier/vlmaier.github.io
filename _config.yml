@@ -5,7 +5,6 @@ description: >-
 
 domain: vlmaier.github.io
 url: https://vlmaier.github.io
-baseurl: ""
 
 github_username: vlmaier
 linkedin_username: vladas-maier
@@ -27,7 +26,7 @@ kramdown:
     block:
       line_numbers: true
 
-show_excerpts: false
+show_excerpts: true
 
 header_pages:
   - about.md

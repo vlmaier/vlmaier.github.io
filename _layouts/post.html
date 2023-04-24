@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post h-entry" itemscope itemtype="https://schema.org/BlogPosting">
 
     <header class="post-header">
         <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
@@ -11,30 +11,24 @@ layout: default
                 {{ page.date | date: date_format }}
             </time>
             {%- if page.author -%}
-            • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
+            • <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+              <span class="p-author h-card"
                     itemprop="name">{{ page.author }}</span></span>
             {%- endif -%}
         </p>
     </header>
 
+    {%- if page.tags != empty -%}
     <span>[
         {% for tag in page.tags %}
         {% capture tag-name %}{{ tag }}{% endcapture %}
         <a href="/tags/{{ tag-name }}"><code class="tag"><nobr>{{ tag-name }}</nobr></code></a>
         {% endfor %}
     ]</span>
-
-    {%- if page.tags != empty -%}
-        <p>&nbsp;</p>
+    <p>&nbsp;</p>
     {%- endif -%}
 
     <div class="post-content e-content" itemprop="articleBody">
         {{ content }}
     </div>
-
-    {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-    {%- endif -%}
-
-    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

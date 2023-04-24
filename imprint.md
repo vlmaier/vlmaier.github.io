@@ -1,4 +1,8 @@
-# Imprint
+---
+layout: page
+title: Imprint
+permalink: /imprint
+---
 
 According to § 5 TMA
 
