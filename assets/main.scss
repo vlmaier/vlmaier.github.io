@@ -4,17 +4,9 @@
 @import "minima";
 @import "pygments-inkpot.css";
 
-.highlight pre {
-  padding: 0;
-  margin: 0;
-}
-
-.rouge-table {
-  margin: 0;
-}
-
-.rouge-gutter {
-  padding-right: 0;
+.tag {
+  background-color: transparent;
+  color: #1E1E27;
 }
 
 .social-badge {

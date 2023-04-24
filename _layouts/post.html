@@ -17,12 +17,12 @@ layout: default
         </p>
     </header>
 
-    <span>
+    <span>[
         {% for tag in page.tags %}
         {% capture tag-name %}{{ tag }}{% endcapture %}
-        <a href="/tags/{{ tag-name }}"><code><nobr>{{ tag-name }}</nobr></code></a>
+        <a href="/tags/{{ tag-name }}"><code class="tag"><nobr>{{ tag-name }}</nobr></code></a>
         {% endfor %}
-    </span>
+    ]</span>
 
     {%- if page.tags != empty -%}
         <p>&nbsp;</p>
