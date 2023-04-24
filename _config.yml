@@ -32,3 +32,4 @@ show_excerpts: false
 
 header_pages:
   - about.md
+  - privacy-policy.md
