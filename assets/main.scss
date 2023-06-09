@@ -21,6 +21,13 @@
   height: auto;
 }
 
+.meme {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
+
 .site-title::before {
   content: "";
   background: url(images/logo.svg);
@@ -78,5 +85,9 @@
 
   .tech-stack {
     width: 47%;
+  }
+
+  .meme {
+    width: 100%;
   }
 }
