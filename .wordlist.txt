@@ -54,3 +54,5 @@ GFM
 css
 kramdown
 dir
+Auth
+IdP

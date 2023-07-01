@@ -6,7 +6,7 @@ permalink: /about
 
 <img class="profile-photo" src="/assets/images/photo.jpeg">
 
-I am a problem solver with solution-oriented approach and very passionate Software Engineer. Most of my professional experience I gained during backend development with a focus on cloud computing and IT security. I am capable of doing several tasks across of all software engineering stages, including requirements engineering, development of architectural design, writing technical specifications, creating prototypes and tracer code, developing solutions, continuous integration, code reviews, quality assurance, writing documentation and rollout. I am a team player and I enjoy developing solutions together on a higher level, which can be implemented then independently.
+I am a problem solver with solution-oriented approach and very passionate software engineer. Most of my professional experience I gained during backend development with a focus on cloud computing and IT security. I am capable of doing several tasks across of all software engineering stages, including requirements engineering, development of architectural design, writing technical specifications, creating prototypes and tracer code, developing solutions, continuous integration, code reviews, quality assurance, writing documentation and rollout. I am a team player and enjoy developing solutions together on a higher level, which can be implemented then independently.
 
 I am familiar with modern software development methods and tools such as Agile (Manifesto), Scrum or Kanban and always support the approach that best suits the team. Writing clean code is very important to me and I work by the boy-scout rule:
 
@@ -31,6 +31,8 @@ Here you can see how am I doing so far:
 </div>
 
 <br>
+<hr>
+<br>
 
 ### Professional Experience
 <h3 class="right">Tech Stack</h3>
@@ -38,7 +40,7 @@ Here you can see how am I doing so far:
 <br>
 
 #### March 2023 – today
-#### **Senior Backend Engineer** in stealth mode
+#### **Senior Backend Engineer** @ Stealth Startup
 
 <div class="tech-stack right">
 {% capture badges %}
@@ -47,15 +49,17 @@ Here you can see how am I doing so far:
 {{ badges | markdownify }}
 </div>
 
-*Backend development*
+**Backend development** / **DevOps**
 
 - Leading and executing a complete switch of an IdP provider; from Azure AD B2C to Auth0
+- Development of smaller features for different services communicating with each other via REST-API
+- Specification of refactoring proposals
+- Upgrade of all backend services from Spring Boot v2.7.x to v3.0.x
 - Being part of setting up the very first production environment
-- Creation of monitoring solutions to observe critical parts of the infrastructure
+- Being part of maintaining the development, staging and production environment
+- Setting up monitoring solutions to observe critical parts of the infrastructure
 - Monitoring the infrastructure and raising issues early
 - Development and maintenance of CI pipelines
-- Specification of refactoring proposals
-- Being part of maintaining the development, staging and production environment
 - Support in release management
 
 <br>
@@ -70,13 +74,13 @@ Here you can see how am I doing so far:
 {{ badges | markdownify }}
 </div>
 
-*Backend development*
+**Backend development**
 
 - Specification and development of product features; mainly as a set of REST-APIs
 - Development of multiple services communicating with each other via REST-API or messaging queue
 - Transformation of a monolithic Spring application to a Spring Boot application
-- Upgrade of Swagger API documentation from version 1.2 to 2.0 and OpenAPI 3.0
-- Switch of data management of all customer sensitive data from NFS to S3 storage
+- Upgrade of Swagger API documentation from version v1.2 to v2.0 and OpenAPI v3.0
+- Executing a complete switch of data management of all customer sensitive data from NFS to S3 storage
 - Refactoring and maintenance of existing code base and architecture
 - Documentation and quality assurance of developed solutions
 - Development and maintenance of CI pipelines
@@ -99,7 +103,7 @@ Here you can see how am I doing so far:
 {{ badges | markdownify }}
 </div>
 
-*Quality assurance*
+**Quality assurance**
 
 - Writing unit / integration tests
 - Quality assurance of a JSON / REST-API
@@ -118,7 +122,7 @@ Here you can see how am I doing so far:
 {{ badges | markdownify }}
 </div>
 
-*Topic: Design secure and user-friendly password policies*
+**Topic: Design secure and user-friendly password policies**
 
 - Design and specification of a password policy concept
 - Implementation of a password policies feature
@@ -137,10 +141,12 @@ Here you can see how am I doing so far:
 {{ badges | markdownify }}
 </div>
 
-*Application development*
+**Application development**
 
-- Conception and development of an internal application for the administration of the (used) hardware among the employees
+- Conception and development of an internal application for the administration of (used) hardware among the employees
 
+<br>
+<hr>
 <br>
 
 ### Side Projects
@@ -155,7 +161,7 @@ Here you can see how am I doing so far:
 {{ badges | markdownify }}
 </div>
 
-*technical capital (this website)*
+**technical capital (this website)**
 
 - First experience with GitHub pages and hosting in general
 - First experience with writing
@@ -173,7 +179,7 @@ Here you can see how am I doing so far:
 {{ badges | markdownify }}
 </div>
 
-*Taski: gamified task scheduler*
+**Taski: gamified task scheduler**
 
 - Design and implementation of an advanced To-Do list application from scratch
 - Development of a feature set for similar To-Do list applications and beyond
@@ -182,8 +188,10 @@ Here you can see how am I doing so far:
 - Leaning Android and Kotlin development
 - Learning about the rollout process on Google Play Store
 
-<a href='https://play.google.com/store/apps/details?id=com.vmaier.taski&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="150dp" style="display: inline;"/></a>
+<a href='https://play.google.com/store/apps/details?id=com.vmaier.taski&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200dp" style="display: inline;"/></a>
 
+<br>
+<hr>
 <br>
 
 ### Education
