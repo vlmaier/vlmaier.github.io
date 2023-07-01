@@ -1,0 +1,1 @@
+<img src="https://img.shields.io/badge/azure%20pipelines-2560E0.svg?style=for-the-badge&logo=Azure-Pipelines&logoColor=white">

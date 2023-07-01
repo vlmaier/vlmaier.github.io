@@ -1,0 +1,1 @@
+<img src="https://img.shields.io/badge/azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white">

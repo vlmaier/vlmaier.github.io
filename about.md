@@ -40,7 +40,23 @@ Here you can see how am I doing so far:
 #### March 2023 – today
 #### **Senior Backend Engineer** in stealth mode
 
+<div class="tech-stack right">
+{% capture badges %}
+{% include_relative assets/badges/_sse-stealth-badges.md %}
+{% endcapture %}
+{{ badges | markdownify }}
+</div>
+
 *Backend development*
+
+- Leading and executing a complete switch of an IdP provider; from Azure AD B2C to Auth0
+- Being part of setting up the very first production environment
+- Creation of monitoring solutions to observe critical parts of the infrastructure
+- Monitoring the infrastructure and raising issues early
+- Development and maintenance of CI pipelines
+- Specification of refactoring proposals
+- Being part of maintaining the development, staging and production environment
+- Support in release management
 
 <br>
 
