@@ -22,7 +22,6 @@ github
 https
 io
 url
-aceouterspace
 github
 linkedin
 maier
@@ -56,3 +55,4 @@ kramdown
 dir
 Auth
 IdP
+DevOps
