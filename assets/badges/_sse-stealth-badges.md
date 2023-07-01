@@ -6,6 +6,7 @@
 {% include_relative assets/badges/datadog.md %}
 {% include_relative assets/badges/git.md %}
 {% include_relative assets/badges/idea.md %}
+{% include_relative assets/badges/junit.md %}
 {% include_relative assets/badges/jwt.md %}
 {% include_relative assets/badges/kotlin.md %}
 {% include_relative assets/badges/kubernetes.md %}
