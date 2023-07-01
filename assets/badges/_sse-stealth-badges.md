@@ -1,6 +1,6 @@
 {% capture badges %}
-{% include_relative assets/badges/azure.md %}
 {% include_relative assets/badges/auth0.md %}
+{% include_relative assets/badges/azure.md %}
 {% include_relative assets/badges/azure-devops.md %}
 {% include_relative assets/badges/azure-pipelines.md %}
 {% include_relative assets/badges/datadog.md %}
