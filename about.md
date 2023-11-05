@@ -24,13 +24,11 @@ Here you can see how am I doing so far:
 
 <div class="tech-stack-footer"></div>
 
-<!--
 <br>
 
 <div>
 <img src="https://ghchart.rshah.org/1e7fbf/vlmaier" style="margin: auto; display: block;"/>
 </div>
--->
 
 <br>
 <hr>
