@@ -28,6 +28,15 @@
   width: 65%;
 }
 
+.dall-e {
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
 .site-title::before {
   content: "";
   background: url(images/logo.svg);
