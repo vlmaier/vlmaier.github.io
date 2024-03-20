@@ -8,27 +8,7 @@ permalink: /about
 
 I am a problem solver with solution-oriented approach and very passionate software engineer. Most of my professional experience I gained during backend development with a focus on cloud computing and IT security. I am capable of doing several tasks across of all software engineering stages, including requirements engineering, development of architectural design, writing technical specifications, creating prototypes and tracer code, developing solutions, continuous integration, code reviews, quality assurance, writing documentation and rollout. I am a team player and enjoy developing solutions together on a higher level, which can be implemented then independently.
 
-I am familiar with modern software development methods and tools such as Agile (Manifesto), Scrum or Kanban and always support the approach that best suits the team. Writing clean code is very important to me and I work by the boy-scout rule:
-
-> Always leave the code better than you found it.
-
-This year I started a challenge to write code every single day even if it's just a few lines of code. The challenge is more about the discipline and developing good habits.
-
-Here you can see how am I doing so far:
-
-{% capture badges %}
-{% include_relative assets/badges/wakatime.md %}
-{% include_relative assets/badges/code-stats.md %}
-{% endcapture %}
-{{ badges | markdownify }}
-
-<div class="tech-stack-footer"></div>
-
-<br>
-
-<div>
-<img src="https://ghchart.rshah.org/1e7fbf/vlmaier" style="margin: auto; display: block;"/>
-</div>
+I am familiar with modern software development methods and tools such as Agile (Manifesto), Scrum or Kanban and always support the approach that best suits the team. Writing clean code is very important to me and I work by the boy-scout rule: *"Always leave the code better than you found it."*
 
 <br>
 <hr>
