@@ -56,3 +56,12 @@ dir
 Auth
 IdP
 DevOps
+TMG
+tl
+scalability
+SDLC
+refactorings
+goya
+todo
+Spotify
+Editr
