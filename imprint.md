@@ -4,7 +4,7 @@ title: Imprint
 permalink: /imprint
 ---
 
-According to § 5 TMA
+According to [§ 5 TMG](https://www.gesetze-im-internet.de/tmg/__5.html)
 
 Vladas Maier
 <br> 
