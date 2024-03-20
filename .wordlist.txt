@@ -64,4 +64,5 @@ refactorings
 goya
 todo
 Spotify
+Spotify's
 Editr
