@@ -19,8 +19,8 @@ I am familiar with modern software development methods and tools such as Agile (
 
 <br>
 
-#### March 2023 – today
-#### **Senior Backend Engineer** @ Stealth Startup
+#### March 2023 – August 2023
+#### **Senior Backend Engineer** @ <a href="https://goyahealth.de/en/">Goya Health</a>
 
 <div class="tech-stack right">
 {% capture badges %}
@@ -33,8 +33,7 @@ I am familiar with modern software development methods and tools such as Agile (
 
 - Leading and executing a complete switch of an IdP provider; from Azure AD B2C to Auth0
 - Development of smaller features for different services communicating with each other via REST-API
-- Specification of refactoring proposals
-- Upgrade of all backend services from Spring Boot v2.7.x to v3.0.x
+- Specification and implementation of refactoring proposals
 - Being part of setting up the very first production environment
 - Being part of maintaining the development, staging and production environment
 - Setting up monitoring solutions to observe critical parts of the infrastructure
@@ -45,7 +44,7 @@ I am familiar with modern software development methods and tools such as Agile (
 <br>
 
 #### July 2021 – February 2023
-#### **Senior Software Engineer** @ <a href="https://www.dracoon.com/en/home">Dracoon GmbH</a>
+#### **Senior Software Engineer** @ <a href="https://www.dracoon.com/en/home">DRACOON GmbH</a>
 
 <div class="tech-stack right">
 {% capture badges %}
@@ -69,7 +68,7 @@ I am familiar with modern software development methods and tools such as Agile (
 <br>
 
 #### November 2017 – July 2021
-#### **Software Engineer** @ <a href="https://www.dracoon.com/en/home">Dracoon GmbH</a>
+#### **Software Engineer** @ <a href="https://www.dracoon.com/en/home">DRACOON GmbH</a>
 
 <br>
 
