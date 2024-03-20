@@ -1,0 +1,1 @@
+<img src="https://img.shields.io/badge/spotify%20api-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white">
