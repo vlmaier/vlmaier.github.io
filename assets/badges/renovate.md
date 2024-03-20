@@ -1,0 +1,1 @@
+<img src="https://img.shields.io/badge/renovate-1A1F6C.svg?style=for-the-badge&logo=RenovateBot&logoColor=white">

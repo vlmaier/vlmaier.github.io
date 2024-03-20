@@ -19,17 +19,42 @@ I am familiar with modern software development methods and tools such as Agile (
 
 <br>
 
+#### September 2023 – today
+#### **Tech Lead** @ <a href="https://www.dracoon.com/en/home">DRACOON GmbH</a>
+
+<div class="tech-stack right">
+{% capture badges %}
+{% include_relative assets/badges/_tl-dracoon-badges.md %}
+{% endcapture %}
+{{ badges | markdownify }}
+</div>
+
+**Backend Development** / **Architecture** / **Leadership**
+
+- Proactive research on various technical topics for improving scalability and stability
+- Continuous improvement of SDLC processes for achieving greater team efficiency
+- Automation of SDLC phases such as testing, deployment and maintenance
+- Making and documenting architectural decisions in form of decision records
+- Leading the backend guild consisting of several cross-functional teams to success
+- Gaining initial leadership experience in my first leadership role
+- Implementation of various refactorings as a member of the architecture team
+- Monitoring the infrastructure and raising issues early
+- Development and maintenance of CI pipelines
+- Support in release management
+
+<br>
+
 #### March 2023 – August 2023
 #### **Senior Backend Engineer** @ <a href="https://goyahealth.de/en/">Goya Health</a>
 
 <div class="tech-stack right">
 {% capture badges %}
-{% include_relative assets/badges/_sse-stealth-badges.md %}
+{% include_relative assets/badges/_sse-goya-badges.md %}
 {% endcapture %}
 {{ badges | markdownify }}
 </div>
 
-**Backend development** / **DevOps**
+**Backend Development** / **DevOps**
 
 - Leading and executing a complete switch of an IdP provider; from Azure AD B2C to Auth0
 - Development of smaller features for different services communicating with each other via REST-API
@@ -53,7 +78,7 @@ I am familiar with modern software development methods and tools such as Agile (
 {{ badges | markdownify }}
 </div>
 
-**Backend development**
+**Backend Development** / **Architecture**
 
 - Specification and development of product features; mainly as a set of REST-APIs
 - Development of multiple services communicating with each other via REST-API or messaging queue
@@ -82,7 +107,7 @@ I am familiar with modern software development methods and tools such as Agile (
 {{ badges | markdownify }}
 </div>
 
-**Quality assurance**
+**Quality Assurance**
 
 - Writing unit / integration tests
 - Quality assurance of a JSON / REST-API
@@ -92,7 +117,7 @@ I am familiar with modern software development methods and tools such as Agile (
 <br>
 
 #### May 2017 – October 2017
-#### **Master thesis** @ <a href="https://www.dracoon.com/en/home">SSP Europe GmbH</a>
+#### **Master Thesis** @ <a href="https://www.dracoon.com/en/home">SSP Europe GmbH</a>
 
 <div class="tech-stack right">
 {% capture badges %}
@@ -120,54 +145,9 @@ I am familiar with modern software development methods and tools such as Agile (
 {{ badges | markdownify }}
 </div>
 
-**Application development**
+**Application Development**
 
 - Conception and development of an internal application for the administration of (used) hardware among the employees
-
-<br>
-<hr>
-<br>
-
-### Side Projects
-
-#### March 2023 – today
-#### **Blog**
-
-<div class="tech-stack right">
-{% capture badges %}
-{% include_relative assets/badges/_blog-badges.md %}
-{% endcapture %}
-{{ badges | markdownify }}
-</div>
-
-**technical capital (this website)**
-
-- First experience with GitHub pages and hosting in general
-- First experience with writing
-- Refreshing of HTML & CSS skills
-
-<br>
-
-#### February 2019 – July 2021
-#### **Android application**
-
-<div class="tech-stack right">
-{% capture badges %}
-{% include_relative assets/badges/_taski-badges.md %}
-{% endcapture %}
-{{ badges | markdownify }}
-</div>
-
-**Taski: gamified task scheduler**
-
-- Design and implementation of an advanced To-Do list application from scratch
-- Development of a feature set for similar To-Do list applications and beyond
-- Multi-language support
-- Use of gamification concepts
-- Leaning Android and Kotlin development
-- Learning about the rollout process on Google Play Store
-
-<a href='https://play.google.com/store/apps/details?id=com.vmaier.taski&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200dp" style="display: inline;"/></a>
 
 <br>
 <hr>

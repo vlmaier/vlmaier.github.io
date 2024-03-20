@@ -1,1 +1,0 @@
-<img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white">
