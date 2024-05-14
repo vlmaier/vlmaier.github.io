@@ -49,6 +49,24 @@
   right: 6px;
 }
 
+.sticker {
+  // credits: @moonio on everskies
+  filter: 
+    drop-shadow(3px 0px 0 white) 
+    drop-shadow(-3px 0px 0 white)
+    drop-shadow(0px 3px 0 white)
+    drop-shadow(0px -3px 0 white)
+    drop-shadow(0px 0px 2px black);
+  height: 124px;
+  padding: 12px;
+}
+
+.sticker:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
 .right {
   float: right;
 }

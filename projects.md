@@ -56,7 +56,7 @@ permalink: /projects
 {{ badges | markdownify }}
 </div>
 
-- Curating a music playlist for 50k+ minimal techno lover
+- Curating a music playlist for 50k+ minimal techno lovers
 - Gaining initial experience in graphic design by creating playlist covers
 - Learning about Spotify API by writing simple scripts
 - Creating [Spotify Playlist Editr](https://github.com/vlmaier/spotify-playlist-editr) to defend bot attacks that abuse Spotify's reporting system

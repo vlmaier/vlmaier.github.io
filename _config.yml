@@ -33,6 +33,7 @@ include:
 
 header_pages:
   - about.md
+  - collections.md
   - projects.md
   - privacy-policy.md
   - imprint.md
