@@ -9,7 +9,7 @@ Code comments, those tiny snippets of text embedded in the vast area of code, ar
 
 P.S. We have a special guest today - [DALL-E](https://openai.com/blog/dall-e/).
 
-<a href="https://labs.openai.com/s/3oqvESK4MAujH8rgD95jNqZp"><img class="dall-e" src="/assets/images/code-comments.png"></a>
+<a href="https://labs.openai.com/s/3oqvESK4MAujH8rgD95jNqZp"><img class="dall-e" src="https://openai-labs-public-images-prod.azureedge.net/user-EdjyOaPT5S1BTvJpIGVzvTQx/generations/generation-3oqvESK4MAujH8rgD95jNqZp/image.webp"></a>
 
 ### *The Good*
 
@@ -17,13 +17,13 @@ P.S. We have a special guest today - [DALL-E](https://openai.com/blog/dall-e/).
 
 Think of code comments as glowing torches in the labyrinth of code. A well-placed comment can shed light on complex algorithms, nested loops, or unclear functions, making them accessible to both seasoned developers and newjoiners. These comments become invaluable guides that shorten the learning curve and make code maintenance easier.
 
-<a href="https://labs.openai.com/s/mqwtZYXKtSXCiJzZwqR5YBUU"><img class="dall-e" src="/assets/images/labyrinth.png"></a>
+<a href="https://labs.openai.com/s/mqwtZYXKtSXCiJzZwqR5YBUU"><img class="dall-e" src="https://openai-labs-public-images-prod.azureedge.net/user-EdjyOaPT5S1BTvJpIGVzvTQx/generations/generation-mqwtZYXKtSXCiJzZwqR5YBUU/image.webp"></a>
 
 #### Documentation
 
 Now think of code comments as historical scrolls that record the epic history of your codebase. They detail the “why", “what” and “how” behind [LOC](https://en.wikipedia.org/wiki/Source_lines_of_code), providing a map for navigating the complex terrain of large and complicated projects. Whether you're dealing with legacy code or collaborating with a distributed team, these comments become vital for knowledge sharing and maintaining consistency in your codebase.
 
-<a href="https://labs.openai.com/s/308B8NVbDcrZOMUpOZ64M2fD"><img class="dall-e" src="/assets/images/historical-scrolls.png"></a>
+<a href="https://labs.openai.com/s/308B8NVbDcrZOMUpOZ64M2fD"><img class="dall-e" src="https://openai-labs-public-images-prod.azureedge.net/user-EdjyOaPT5S1BTvJpIGVzvTQx/generations/generation-308B8NVbDcrZOMUpOZ64M2fD/image.webp"></a>
 
 I went through a debugging hell once because I simply did not understand why the code is not working but everything seemed fine (as always). After hours of debugging, I found a comment: *"Do not use hyphens in the application ID"*. I felt mad, relieved and happy at the same time. Mad because I wasted hours of debugging and the solution did not even affect the code so I was right that the code was fine ;) Relieved because I finally found the solution. Happy because a fellow developer who probably also wasted hours of debugging as well left this comment for future developers. I think this is a good example of how comments can help you.
 
@@ -31,7 +31,7 @@ I went through a debugging hell once because I simply did not understand why the
 
 TODO comments are your virtual sticky notes that remind you of tasks waiting to be done. They serve as a marker for future improvements, feature enhancements or bug fixes. Without it, it's like walking through a house with peeling paint and a leaking roof without thinking about making repairs. TODOs are your friendly reminders that keep the codebase tidy and organized.
 
-<a href="https://labs.openai.com/s/ThlcZYCZ0zRbt2M5Ti2FtjoQ"><img class="dall-e" src="/assets/images/sticky-notes.png"></a>
+<a href="https://labs.openai.com/s/ThlcZYCZ0zRbt2M5Ti2FtjoQ"><img class="dall-e" src="https://openai-labs-public-images-prod.azureedge.net/user-EdjyOaPT5S1BTvJpIGVzvTQx/generations/generation-ThlcZYCZ0zRbt2M5Ti2FtjoQ/image.webp"></a>
 
 You might be wondering what this guy is talking about. TODOs are the worst thing you can have in the codebase as developers tend to ignore them and these comments end up staying in the codebase forever.
 
@@ -66,7 +66,7 @@ Comments can quickly become outdated as the code evolves. These outdated comment
 
 Keeping comments up to date is a responsibility akin to tending a garden - neglect them and they become overgrown and unmanageable. But how do you ensure these outdated comments stay relevant?
 
-<a href="https://labs.openai.com/s/ketMSEx16n6Ok2h9ZRuYzTOf"><img class="dall-e" src="/assets/images/overgrown-garden.png"></a>
+<a href="https://labs.openai.com/s/ketMSEx16n6Ok2h9ZRuYzTOf"><img class="dall-e" src="https://openai-labs-public-images-prod.azureedge.net/user-EdjyOaPT5S1BTvJpIGVzvTQx/generations/generation-ketMSEx16n6Ok2h9ZRuYzTOf/image.webp"></a>
 
 One approach is to conduct regular code reviews and treat comments as seriously as the code. During these reviews, you can search your codebase, identify outdated comments, and either update them with the latest information or properly remove them. This approach not only keeps your codebase organized, but also promotes respect for the importance of accurate and up-to-date documentation.
 
@@ -79,7 +79,7 @@ Some developers tend to write comments that simply duplicate the functionality o
 
 Redundant comments echo through your codebase like echoes in a canyon, adding nothing but noise. They are clearly reminiscent of the old saying “less is more”. So why do developers fall into the trap of over-explaining their code?
 
-<a href="https://labs.openai.com/s/ertdb4IllmsRFoyqfzzbGUuc"><img class="dall-e" src="/assets/images/echoes-in-canyon.png"></a>
+<a href="https://labs.openai.com/s/ertdb4IllmsRFoyqfzzbGUuc"><img class="dall-e" src="https://openai-labs-public-images-prod.azureedge.net/user-EdjyOaPT5S1BTvJpIGVzvTQx/generations/generation-ertdb4IllmsRFoyqfzzbGUuc/image.webp"></a>
 
 One reason is the fear of darkness. In their quest for clarity, developers may believe it is necessary to repeat the purpose of the code in plain English. However, it is important to remember that the code should be reasonably self-explanatory. If you find yourself writing comments that reflect the functionality of the code, stop and think again.
 
@@ -95,7 +95,7 @@ When you're dealing with code that seems to be annotated to the last breath, you
 
 Imagine trying to enjoy a meal while your dining partner explains the origins, history and culinary intricacies of each dish in great detail. The experience transforms from a delicious meal into an academic lecture. Likewise, overcommented code can turn a simple reading task into a laborious undertaking.
 
-<a href="https://labs.openai.com/s/mp6E4IO91C05tA8ISxgGgGAK"><img class="dall-e" src="/assets/images/dining.png"></a>
+<a href="https://labs.openai.com/s/mp6E4IO91C05tA8ISxgGgGAK"><img class="dall-e" src="https://openai-labs-public-images-prod.azureedge.net/user-EdjyOaPT5S1BTvJpIGVzvTQx/generations/generation-mp6E4IO91C05tA8ISxgGgGAK/image.webp"></a>
 
 To find the right balance, you should adopt the principle of minimalism. Keep comments for the aspects that really need clarification. Focus on explaining complex algorithms, unconventional design decisions, and potential pitfalls. Keep your comments concise and ensure that they improve rather than detract from the readability of the code. Essentially, your comments should serve as subtle guides rather than overwhelming companions. The trick is to let the code speak for itself and provide valuable insights only where necessary.
 
@@ -105,7 +105,7 @@ To find the right balance, you should adopt the principle of minimalism. Keep co
 
 Unused comments can haunt your codebase like neglected relics of the past. They serve no purpose and only clutter the source code. Although they may not directly affect the functionality of your code, they reduce its readability and maintainability.
 
-<a href="https://labs.openai.com/s/ScLl5eUYdcvia0pyR2sAjOe1"><img class="dall-e" src="/assets/images/ghost.png"></a>
+<a href="https://labs.openai.com/s/ScLl5eUYdcvia0pyR2sAjOe1"><img class="dall-e" src="https://openai-labs-public-images-prod.azureedge.net/user-EdjyOaPT5S1BTvJpIGVzvTQx/generations/generation-ScLl5eUYdcvia0pyR2sAjOe1/image.webp"></a>
 
 As a diligent developer, it's important to regularly review your codebase and remove those ghosts of past comments. Unused comments can result from outdated code, changing requirements, or the natural evolution of your project. Neglecting them can result in a cluttered codebase and cause confusion, especially among new team members trying to understand your code. To eliminate these ghosts from your code, adopt a proactive comment cleanup policy during regular code reviews. It's a straightforward but effective approach that ensures your codebase remains clean, uncluttered, and accessible to everyone who interacts with it.
 
@@ -113,7 +113,7 @@ As a diligent developer, it's important to regularly review your codebase and re
 
 In the realm of coding, comments should maintain a professional and respectful tone. Using inappropriate language or adopting an unprofessional attitude can cast a shadow over your development environment. Such comments can create a hostile work atmosphere, lead to conflicts within the development team, and tarnish the overall collaboration. Ensuring that your comments uphold a respectful and constructive tone is vital for maintaining a positive and productive coding environment.
 
-<a href="https://labs.openai.com/s/jtH8DRJNqzfXaSAdiXZf8BFS"><img class="dall-e" src="/assets/images/criticize-the-code.png"></a>
+<a href="https://labs.openai.com/s/jtH8DRJNqzfXaSAdiXZf8BFS"><img class="dall-e" src="https://openai-labs-public-images-prod.azureedge.net/user-EdjyOaPT5S1BTvJpIGVzvTQx/generations/generation-jtH8DRJNqzfXaSAdiXZf8BFS/image.webp"></a>
 
 I'm familiar with the saying, *"Criticize the code, not the developer"* but we developers all know how sensitive we can be when it comes to the code we've written.
 
@@ -137,7 +137,7 @@ Ignoring comments that indicate issues or improvement opportunities can lead to 
 
 You know those comments like: *"This is a workaround for a bug in the library. Remove it when the bug is fixed."* or *"This is a temporary solution. We need to find a better way to do this."* or even better *"Remove this when feature X is implemented."*
 
-<a href="https://labs.openai.com/s/tP8L20JaNKnSqV4iDmv4PD5I"><img class="dall-e" src="/assets/images/bug.png"></a>
+<a href="https://labs.openai.com/s/tP8L20JaNKnSqV4iDmv4PD5I"><img class="dall-e" src="https://openai-labs-public-images-prod.azureedge.net/user-EdjyOaPT5S1BTvJpIGVzvTQx/generations/generation-tP8L20JaNKnSqV4iDmv4PD5I/image.webp"></a>
 
 And then you do `git praise` and realize that these comments are old enough to raise a family together... great.
 
@@ -145,6 +145,6 @@ And then you do `git praise` and realize that these comments are old enough to r
 
 All in all, code comments are a double-edged sword. We have covered more bad and ugly than good things. Because misuse and neglect of comments can result in a cluttered, confusing, and error-prone codebase. However, when used effectively, code comments can significantly contribute to clean code practices and improve understanding of software. To maintain a healthy balance, developers should prioritize clear, concise, and timely comments and ensure that they truly add value to the codebase. When it comes to code comments, remember the saying: "It's better to have no comment than a bad comment."
 
-<a href="https://labs.openai.com/s/g7GDG9T19RZOMSr0Qw7TZepJ"><img class="dall-e" src="/assets/images/no-comments.png"></a>
+<a href="https://labs.openai.com/s/g7GDG9T19RZOMSr0Qw7TZepJ"><img class="dall-e" src="https://openai-labs-public-images-prod.azureedge.net/user-EdjyOaPT5S1BTvJpIGVzvTQx/generations/generation-g7GDG9T19RZOMSr0Qw7TZepJ/image.webp"></a>
 
 Cheers, happy coding :)
