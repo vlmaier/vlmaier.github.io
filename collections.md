@@ -47,7 +47,7 @@ myself to place a game-related sticker on this page.
 <h3>Books</h3>
 
 When I'm not playing video games, I'm reading. In 2024, I started listening to audiobooks. I used to be really skeptical
-about audiobooks, but I've grown to love them by doing something else at the same time that doesn't keep my mind
+about audiobooks, but I've grown to love them by doing something else at the same time that does not keep my mind
 occupied. Nevertheless, for each book I have read or listened to I allow myself to place a book-related sticker on this
 page.
 
