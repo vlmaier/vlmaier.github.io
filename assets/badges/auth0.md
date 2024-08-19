@@ -1,0 +1,1 @@
+<img src="https://img.shields.io/badge/auth0-EB5424.svg?style=for-the-badge&logo=Auth0&logoColor=white">

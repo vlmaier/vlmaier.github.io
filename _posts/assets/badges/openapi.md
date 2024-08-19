@@ -1,0 +1,1 @@
+<img src="https://img.shields.io/badge/openapi-6BA539.svg?style=for-the-badge&logo=OpenAPI-Initiative&logoColor=white">

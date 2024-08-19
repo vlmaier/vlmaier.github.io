@@ -1,0 +1,41 @@
+title: technical capital
+email: vladas.mr@gmail.com
+description: >-
+  I blog about things I find out for myself and have an urge to share them with the Internet. Maybe someone else will find it useful...
+
+domain: vlmaier.github.io
+url: https://vlmaier.github.io
+
+github_username: vlmaier
+linkedin_username: vladas-maier
+rss: rss
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    block:
+      line_numbers: true
+
+show_excerpts: true
+
+include:
+  - "_assets"
+
+header_pages:
+  - about.md
+  - collections.md
+  - projects.md
+  - privacy-policy.md
+
+tag_page_layout: tag-page
+tag_page_dir: tags

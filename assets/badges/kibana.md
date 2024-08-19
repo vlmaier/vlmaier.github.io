@@ -1,0 +1,1 @@
+<img src="https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=Kibana&logoColor=white">

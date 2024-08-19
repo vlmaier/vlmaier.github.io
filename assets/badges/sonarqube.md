@@ -1,0 +1,1 @@
+<img src="https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=SonarQube&logoColor=white">
